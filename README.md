@@ -18,7 +18,7 @@ Anyone can use the project to get started with the basics of RLHF tuning Large L
 Anyone interested in getting started with Machine Learning, Deep Learning, Natural Language Processing (NLP), or Generative Artificial Intelligence (GenAI), specifically, fine-tuning LLMs with RLHF for text summarization using Vertex AI on GCP, can clone or download the project to get started.
 
 # References
-I have leveraged ChatGPT for guidance in terms of some concepts and to clarify doubts, both theoretical and code-based. However, I did not use ChatGPT to generate code. The most important points of reference for the project are as follows.
+The most important points of reference for the project are as follows.
 1. DeepLearning.AI's [course](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/) on RLHF in association with Google Cloud.
 2. GCP's [documentation](https://cloud.google.com/vertex-ai/generative-ai/docs/models/tune-text-models-rlhf) about tuning Pathways Language Models (PaLM) text models by using RLHF tuning. Although PaLM models are deprecated, the information is very helpful in the context of RLHF tuning LLMs using Vertex AI.
 3. GCP's [blog](https://cloud.google.com/blog/products/ai-machine-learning/rlhf-on-google-cloud) on *RLHF Tuning with Vertex AI*.
